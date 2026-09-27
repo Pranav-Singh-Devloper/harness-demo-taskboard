@@ -1,0 +1,12 @@
+[
+  {"title": "Write project proposal", "description": "Draft the **proposal** for the hackathon.\nSee the [brief](https://example.com/brief).", "due": "2026-10-03", "priority": "high", "tags": "work", "done": false},
+  {"title": "Buy groceries", "description": "Milk, eggs, bread and *lots* of coffee.", "due": "2026-10-01", "priority": "medium", "tags": "home,errands", "done": false},
+  {"title": "Don't forget the milk", "description": "", "due": null, "priority": "low", "tags": "home", "done": false},
+  {"title": "Book dentist appointment", "description": "Call before `5pm`.", "due": "2026-09-28", "priority": "medium", "tags": "health", "done": false},
+  {"title": "Review pull requests", "description": "", "due": "2026-10-02", "priority": "high", "tags": "work,urgent", "done": true},
+  {"title": "Plan weekend trip", "description": "Ideas: [Lonavala](https://en.wikipedia.org/wiki/Lonavala) or the beach.", "due": "2026-10-10", "priority": "low", "tags": "personal", "done": false},
+  {"title": "Pay electricity bill", "description": "", "due": "2026-09-30", "priority": "high", "tags": "home,bills", "done": true},
+  {"title": "Call O'Brien about the lease", "description": "Ask about the deposit.", "due": "2026-10-04", "priority": "medium", "tags": "home", "done": false},
+  {"title": "Update CV, portfolio and LinkedIn", "description": "", "due": "2026-10-15", "priority": "low", "tags": "career", "done": false},
+  {"title": "Read \"Clean Code\"", "description": "One chapter a day.", "due": null, "priority": "low", "tags": "learning", "done": false}
+]

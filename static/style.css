@@ -1,0 +1,17 @@
+body { font-family: system-ui, sans-serif; margin: 0; color: #1f2933; background: #f5f7fa; }
+header { display: flex; gap: 1rem; align-items: center; padding: 0.75rem 1.5rem; background: #243b53; }
+header a { color: #fff; text-decoration: none; }
+.brand { font-weight: 700; font-size: 1.2rem; }
+.search { flex: 1; display: flex; gap: 0.5rem; }
+.search input { flex: 1; padding: 0.4rem; }
+main { max-width: 820px; margin: 0 auto; padding: 1.5rem; }
+.progress { color: #52606d; }
+.tasks { list-style: none; padding: 0; }
+.task { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid #d9e2ec; }
+.task form { display: inline; }
+.task-title { font-weight: 600; color: inherit; }
+.priority-high .task-title::before { content: "● "; color: #d64545; }
+.due, .tags { color: #627d98; font-size: 0.9rem; }
+.tag { color: #486581; margin-right: 0.3rem; }
+.badge.overdue { background: #d64545; color: #fff; border-radius: 4px; padding: 0 0.4rem; font-size: 0.8rem; }
+.new-task { display: grid; gap: 0.5rem; max-width: 480px; }
